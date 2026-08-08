@@ -32,10 +32,10 @@
 ## 🧪 Demonstração
 
 <p align="center">
-  <img src="screenshot.png" alt="Screenshot" width="700">
+  <img src="print.png" alt="Screenshot" width="700">
 </p>
 
-*Exemplo: Caminho mínimo entre os nós 1 e 6 com custo 8.0*
+*Exemplo: Caminho mínimo entre os nós 1 e 6 com custo 6.0*
 
 ---
 
