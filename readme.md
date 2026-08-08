@@ -52,6 +52,8 @@
 
 ## 📦 Instalação e Execução
 
+Lembre de instalar as dependências
+
 ### 1️⃣ Clone o repositório
 ```bash
 git clone https://github.com/seu-usuario/dijkstra-visual-simulator.git
