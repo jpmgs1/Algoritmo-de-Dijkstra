@@ -8,8 +8,6 @@
 
 ![Dijkstra Simulator Demo](demo.gif) <!-- Substitua pelo link do GIF real -->
 
----
-
 ## ✨ Funcionalidades
 
 - ✅ **Adicionar/Remover Nós** — Clique no canvas para criar ou remover vértices.
